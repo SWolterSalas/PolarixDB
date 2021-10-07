@@ -2,7 +2,7 @@
 
 This is PolarixDB, a public repository of a Web App to study and analyze data of the Antartic Stations associated with AWS, SCAR and POLENET.
 
-To start, we need to create an sql database. We have one compiled that takes the historic record of every Antartic stations to april of 2021. The link is here:
+To start, we need to create an SQL database. We have one compiled that takes the historic record of every Antartic stations to april of 2021. The link is here:
 
 ```
 https://uandresbelloedu-my.sharepoint.com/:u:/g/personal/s_woltersalas_uandresbello_edu/EZKDp7dxN5FGmsXRWmNtbKIB4h55s7QzkxugGSyTZDA8ZA?e=fZFTkS
