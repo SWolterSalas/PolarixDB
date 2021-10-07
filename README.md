@@ -22,7 +22,7 @@ To run this page it is necesary to build a conda environment with the next apps:
 - markdown
 - matplotlib
 
-Next step to be fully functional is to change the route of every script to the download site of this repository and the file the it is needed:
+Next step to be fully functional is to change the route of every script to the download site of this repository and the file that it is needed:
 
 | Script  | Lines of the code |
 |     :---:             |  :---:      |
